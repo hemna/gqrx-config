@@ -1,0 +1,26 @@
+# Tag name          ;  color
+NORCAL APPROACH     ; #c0c0c0
+NOAA                ; #c0c0c0
+NORCAL APPRCH KSAC  ; #c0c0c0
+KPVF AWOS           ; #c0c0c0
+KAUN AWOS           ; #c0c0c0
+CalFire for El Dorado county; #c0c0c0
+KPVF CTAF           ; #c0c0c0
+El Dorado Sherrif Dispatch West Slope; #c0c0c0
+KSAC EXEC CTAF      ; #c0c0c0
+KAUN CTAF           ; #c0c0c0
+Auburn PD1          ; #c0c0c0
+
+# Frequency ; Name                     ; Modulation          ;  Bandwidth; Tags
+   119375000; KAUN AWOS                ; Narrow FM           ;      10000; KAUN AWOS
+   119500000; KSAC EXEC CTAF           ; AM                  ;      10000; KSAC EXEC CTAF
+   122700000; KAUN CTAF                ; Narrow FM           ;      10000; KAUN CTAF
+   122800000; KPVF CTAF                ; AM                  ;      10000; KPVF CTAF
+   125400000; NORCAL APRCH             ; Narrow FM           ;      10000; NORCAL APPROACH
+   127400000; NORCAL APPRCH KSAC       ; AM                  ;      10000; NORCAL APPRCH KSAC
+   128125000; KPVF AWOS                ; AM                  ;      10000; KPVF AWOS
+   154650000; AUBURN PD1               ; Narrow FM           ;      10000; Auburn PD1
+   155902500; CALFIRE ELDO             ; Narrow FM           ;      10000; CalFire for El Dorado county
+   159555000; ELDOSHRF1                ; Narrow FM           ;      10000; El Dorado Sherrif Dispatch West Slope
+   159600000; ELDOSHRF2                ; Narrow FM           ;      10000; El Dorado Sherrif Dispatch West Slope
+   162550000; NOAA                     ; Demod Off           ;          0; NOAA
